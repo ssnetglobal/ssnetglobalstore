@@ -1,0 +1,2 @@
+# ssnetglobalstore
+store
